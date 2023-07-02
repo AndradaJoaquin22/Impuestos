@@ -1,0 +1,8 @@
+C:\Users\Lautaro\Desktop\csharp\Impuestos\Impuestos\bin\Debug\Impuestos.exe.config
+C:\Users\Lautaro\Desktop\csharp\Impuestos\Impuestos\bin\Debug\Impuestos.exe
+C:\Users\Lautaro\Desktop\csharp\Impuestos\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\Lautaro\Desktop\csharp\Impuestos\Impuestos\obj\Debug\Impuestos.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\csharp\Impuestos\Impuestos\obj\Debug\Impuestos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lautaro\Desktop\csharp\Impuestos\Impuestos\obj\Debug\Impuestos.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\csharp\Impuestos\Impuestos\obj\Debug\Impuestos.exe
+C:\Users\Lautaro\Desktop\csharp\Impuestos\Impuestos\obj\Debug\Impuestos.pdb
